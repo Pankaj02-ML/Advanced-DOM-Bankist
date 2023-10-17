@@ -138,3 +138,4 @@ document.querySelector(".nav__links").addEventListener("click", function (e) {
   }
 });
 
+console.log("This is a smooth scrolling feature added")
